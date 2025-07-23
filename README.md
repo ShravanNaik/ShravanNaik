@@ -18,7 +18,7 @@
 
 **Current Role:** AI/ML Engineer  
 **Previous Role:** Senior Software Engineer  
-**Location:** India 🇮🇳
+**Location:** India <img src="https://flagcdn.com/16x12/in.png" width="16" height="12" alt="India flag" />
 
 ### 🧠 AI/ML Expertise
 - **Core Specializations:** Machine Learning, Deep Learning, NLP, LLMs, Transformers
