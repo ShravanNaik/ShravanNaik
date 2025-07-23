@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My Digital Universe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Architect;10%2B+Years+Experience;Code+Craftsman;Digital+Innovator;Problem+Solver+Extraordinaire" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=IIT+Alumnus;AI%2FML%2FDL%2FNLP+Enthusiast;Building+Brains+for+Machines;Senior+AI%2FML+Engineer;While+Losing+Mine+to+Models+%F0%9F%A4%96" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -10,44 +10,29 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="AI/ML" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 👨‍💻 About This Code Wizard
+### 🎓 IIT Alumnus | AI/ML Engineer
 
-```typescript
-class SeniorDeveloper {
-    name: string = "Your Name";
-    location: string = "Silicon Valley, CA";
-    experience: number = 10;
-    
-    currentRole = {
-        title: "Senior Full Stack Architect",
-        company: "Tech Unicorn Inc.",
-        focus: ["System Design", "Team Leadership", "Innovation"]
-    };
-    
-    expertise = {
-        languages: ["TypeScript", "Python", "Go", "Rust", "Java"],
-        frontend: ["React", "Next.js", "Vue", "Angular", "Svelte"],
-        backend: ["Node.js", "Django", "FastAPI", "Microservices"],
-        cloud: ["AWS", "GCP", "Azure", "Kubernetes", "Terraform"],
-        databases: ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"],
-        architecture: ["Distributed Systems", "Event-Driven", "CQRS"]
-    };
-    
-    achievements = [
-        "🏆 Built systems serving 50M+ users",
-        "🚀 Led 5 successful product launches",
-        "👥 Mentored 50+ junior developers",
-        "📈 Improved performance by 300%",
-        "🔧 Open source contributor (10K+ stars)"
-    ];
-    
-    getCurrentMission(): string {
-        return "Building the future, one commit at a time";
-    }
-}
-```
+**Indian Institute of Technology (IIT) Graduate**  
+*AI/ML/DL/NLP enthusiast by heart | Building brains for machines while losing mine to models 🤖*
+
+**Current Role:** Senior AI/ML Engineer  
+**Previous Role:** Senior Software Engineer  
+**Location:** India 🇮🇳
+
+### 🧠 AI/ML Expertise
+- **Core Specializations:** Machine Learning, Deep Learning, NLP, LLMs, Transformers
+- **Advanced Skills:** Fine-tuning, RAG, Prompt Engineering, Model Optimization
+- **Research Areas:** Transformer architectures, Multi-modal AI, Neural Networks
+
+### 💼 Professional Achievements
+- 🎓 **IIT Graduate** with honors in Computer Science
+- 🤖 **Built production LLMs** serving 1M+ queries daily
+- 🚀 **Led AI transformation** at 3 major companies
+- 📊 **Improved model accuracy** by 40% through advanced fine-tuning
+- 🔬 **Published research** on transformer architectures
+- 💡 **Created 15+ AI-powered** products and solutions
 
 ---
 
@@ -58,13 +43,13 @@ class SeniorDeveloper {
 
 <br>
 
-- 🔭 **Currently Architecting:** Next-gen AI-powered SaaS platform with 99.99% uptime
-- 🌱 **Learning Journey:** Advanced Rust, WebAssembly, and Quantum Computing concepts
-- 👯 **Collaboration Goals:** Open source projects that change the world
-- 🤝 **Seeking:** Fellow innovators for cutting-edge tech ventures
-- 💬 **Ask Me About:** System design, performance optimization, team leadership, startup scaling
-- ⚡ **Fun Fact:** I debug in my sleep and dream in code
-- 🎮 **Side Quest:** Building indie games in my spare time
+- 🔭 **Currently Architecting:** Next-gen LLM applications with RAG and fine-tuning pipelines
+- 🌱 **Learning Journey:** Advanced Transformer architectures, Multi-modal AI, and Quantum ML
+- 👯 **Collaboration Goals:** Open source AI projects and cutting-edge research
+- 🤝 **Seeking:** Fellow AI researchers and ML engineers for breakthrough innovations
+- 💬 **Ask Me About:** LLMs, Fine-tuning, RAG, Prompt Engineering, ML Algorithms, Deep Learning
+- ⚡ **Fun Fact:** I debug neural networks in my dreams and wake up with gradient descent solutions
+- 🎮 **Side Quest:** Building AI agents that can beat me at chess (they already do)
 
 </details>
 
@@ -74,14 +59,21 @@ class SeniorDeveloper {
 
 <div align="center">
 
-### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### AI/ML & Data Science
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Languages & Frameworks
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -90,11 +82,18 @@ class SeniorDeveloper {
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
+### Blockchain & Enterprise
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=for-the-badge&logoColor=white)
+
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
@@ -127,46 +126,46 @@ class SeniorDeveloper {
 <tr>
 <td width="50%">
 
-<h3 align="center">🚀 MicroSaaS Platform</h3>
+<h3 align="center">🧠 AI Language Model</h3>
 <div align="center">  
-<a href="https://github.com/yourusername/microsaas-platform" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=microsaas-platform&theme=radical" alt="MicroSaaS Platform" /></a>
-</div>
-<p align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-</p>
-<p align="center"><strong>Scalable SaaS platform serving 50M+ users with 99.99% uptime</strong></p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🤖 AI Code Assistant</h3>
-<div align="center">
-<a href="https://github.com/yourusername/ai-code-assistant" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-code-assistant&theme=radical" alt="AI Code Assistant" /></a>
+<a href="https://github.com/yourusername/ai-language-model" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-language-model&theme=radical" alt="AI Language Model" /></a>
 </div>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 </p>
-<p align="center"><strong>AI-powered coding assistant with 95% accuracy</strong></p>
+<p align="center"><strong>Fine-tuned LLM achieving 95% accuracy on domain-specific tasks</strong></p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🔍 RAG System</h3>
+<div align="center">
+<a href="https://github.com/yourusername/rag-system" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=rag-system&theme=radical" alt="RAG System" /></a>
+</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white" />
+</p>
+<p align="center"><strong>Advanced RAG pipeline with 98% retrieval accuracy</strong></p>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-<h3 align="center">⚡ Real-time Analytics</h3>
+<h3 align="center">📊 NLP Analytics Engine</h3>
 <div align="center">
-<a href="https://github.com/yourusername/realtime-analytics" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=realtime-analytics&theme=radical" alt="Real-time Analytics" /></a>
+<a href="https://github.com/yourusername/nlp-analytics" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=nlp-analytics&theme=radical" alt="NLP Analytics" /></a>
 </div>
 <p align="center">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 </p>
-<p align="center"><strong>Processing 1M+ events/second with sub-millisecond latency</strong></p>
+<p align="center"><strong>Real-time NLP processing with transformer-based models</strong></p>
 
 </td>
 <td width="50%">
