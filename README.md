@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My Digital Universe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=IIT+Alumnus;AI%2FML%2FDL%2FNLP+Enthusiast;Building+Brains+for+Machines;AI%2FML+Engineer;While+Losing+Mine+to+Models+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=IIT+Alumnus;AI%2FML%2FDL%2FNLP+Enthusiast;Building+Brains+for+Machines;AI%2FML+Engineer;While+Losing+Mine+to+Machines+%F0%9F%A4%96" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -15,7 +15,7 @@
 ### 🎓 IIT Alumnus | AI/ML Engineer
 
 **Indian Institute of Technology (IIT) Graduate**  
-*AI/ML/DL/NLP enthusiast by heart | Building brains for machines while losing mine to models 🤖*
+*AI/ML/DL/NLP enthusiast by heart | Building brains for machines while losing mine to machines 🤖*
 
 **Current Role:** AI/ML Engineer  
 **Previous Role:** Senior Software Engineer  
@@ -27,11 +27,13 @@
 - **Research Areas:** Transformer architectures, Multi-modal AI, Neural Networks
 
 ### 💼 Professional Achievements
-- 🎓 **IIT Graduate** with honors in Computer Science
+- 🎓 **IIT Graduate** with honors in Maths and Computer Science
+- 🏆 **Cracked GATE examination** with excellent rank
+- 📚 **Completed M.Tech from IIT** - Postgraduate degree
+- 🥇 **Best M.Tech Project Award** for outstanding research contribution
 - 🤖 **Built production LLMs** serving 1M+ queries daily
-- 🚀 **Led AI transformation** at 3 major companies
 - 📊 **Improved model accuracy** by 40% through advanced fine-tuning
-- 🔬 **Published research** on transformer architectures
+- 🔬 **Published research** on Security and Blockchain
 - 💡 **Created 15+ AI-powered** products and solutions
 
 ---
