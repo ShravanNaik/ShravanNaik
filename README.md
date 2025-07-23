@@ -14,9 +14,6 @@
 
 ### 🎓 IIT Alumnus | AI/ML Engineer
 
-**Indian Institute of Technology (IIT) Graduate**  
-*AI/ML/DL/NLP enthusiast by heart | Building brains for machines while losing mine to machines 🤖*
-
 **Current Role:** AI/ML Engineer  
 **Previous Role:** Senior Software Engineer  
 **Location:** India 🇮🇳
@@ -27,9 +24,8 @@
 - **Research Areas:** Transformer architectures, Multi-modal AI, Neural Networks
 
 ### 💼 Professional Achievements
-- 🎓 **IIT Graduate** with honors in Maths and Computer Science
+- 🎓 **IIT PostGraduate** with honors in Maths and Computer Science
 - 🏆 **Cracked GATE examination** with excellent rank
-- 📚 **Completed M.Tech from IIT** - Postgraduate degree
 - 🥇 **Best M.Tech Project Award** for outstanding research contribution
 - 🤖 **Built production LLMs** serving 1M+ queries daily
 - 📊 **Improved model accuracy** by 40% through advanced fine-tuning
@@ -110,15 +106,12 @@
 
 <p>
 <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="https://medium.com/@yourusername"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="mailto:badavathshravan20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://medium.com/@badavathshravan20"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 ### 📧 Open for:
-- 🚀 **Startup Collaborations** | 💼 **Consulting Opportunities** | 🎤 **Speaking Engagements**
-- 👥 **Mentoring Sessions** | 🔬 **Research Projects** | 💡 **Innovation Partnerships**
+- 🔬 **Research Projects** 
 
 ---
 
