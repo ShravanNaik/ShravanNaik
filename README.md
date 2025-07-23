@@ -68,23 +68,28 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=for-the-badge&logoColor=white)
+![AI](https://img.shields.io/badge/AI-00D2FF?style=for-the-badge&logoColor=white)
+![ML](https://img.shields.io/badge/ML-FF6B6B?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-20B2AA?style=for-the-badge&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-9370DB?style=for-the-badge&logoColor=white)
 
 ### Languages & Frameworks
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Blockchain & Enterprise
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-
 
 ### Databases & Version Control
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -97,11 +102,9 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 
-
 </div>
 
 ---
-
 
 <table>
 <tr>
@@ -151,7 +154,7 @@
 </td>
 <td width="50%">
 
-<h3 align="center">🤖 Blockchain A</h3>
+<h3 align="center">🤖 Blockchain AI Bot</h3>
 <div align="center">
 <a href="https://github.com/yourusername/blockchain-ai-bot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=blockchain-ai-bot&theme=radical" alt="Blockchain AI Bot" /></a>
 </div>
@@ -164,6 +167,7 @@
 
 </td>
 </tr>
+</table>
 
 ## 🌐 Connect & Collaborate
 
@@ -178,7 +182,7 @@
 </p>
 
 ### 📧 Open for:
- 🔬 **Research Projects**
+🔬 **Research Projects**
 
 ---
 
