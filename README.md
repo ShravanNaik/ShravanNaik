@@ -10,8 +10,6 @@
 
 ---
 
-<img align="center" alt="AI/ML" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 ### 🎓 IIT Alumnus | AI/ML Engineer
 
 **Current Role:** AI/ML Engineer  
