@@ -81,6 +81,18 @@
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-9370DB?style=for-the-badge&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logoColor=white)
 
+### LLM Models & APIs
+![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GPT-4.1](https://img.shields.io/badge/GPT--4.1-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GPT-4o-mini](https://img.shields.io/badge/GPT--4o--mini-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GPT-o1](https://img.shields.io/badge/GPT--o1-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GPT-o3](https://img.shields.io/badge/GPT--o3-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude-4](https://img.shields.io/badge/Claude--4-FF6B35?style=for-the-badge&logoColor=white)
+![Claude Opus](https://img.shields.io/badge/Claude_Opus-FF6B35?style=for-the-badge&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
