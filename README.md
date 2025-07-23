@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=IIT+Alumnus;AI%2FML%2FDL%2FNLP+Enthusiast;Building+Brains+for+Machines;AI%2FML+Engineer;While+Losing+Mine+to+Machines+%F0%9F%A4%96" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img align="right" alt="AI/ML" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 </div>
 
