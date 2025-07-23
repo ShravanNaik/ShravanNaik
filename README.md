@@ -99,24 +99,7 @@
 
 ---
 
-## 📊 GitHub Analytics & Performance Metrics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1"/>
-</div>
-
----
-
-## 🎯 Featured Projects & Impact
+## 🎯 Featured AI/ML Projects
 
 <div align="center">
 
@@ -170,79 +153,20 @@
 </td>
 <td width="50%">
 
-<h3 align="center">🛡️ Security Framework</h3>
+<h3 align="center">🤖 Blockchain AI Bot</h3>
 <div align="center">
-<a href="https://github.com/yourusername/security-framework" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=security-framework&theme=radical" alt="Security Framework" /></a>
+<a href="https://github.com/yourusername/blockchain-ai-bot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=blockchain-ai-bot&theme=radical" alt="Blockchain AI Bot" /></a>
 </div>
 <p align="center">
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
 </p>
-<p align="center"><strong>Zero-trust security framework for cloud-native applications</strong></p>
+<p align="center"><strong>AI-powered trading bot for decentralized finance</strong></p>
 
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 💼 Professional Journey & Achievements
-
-<div align="center">
-
-### 🏢 Career Milestones
-
-```mermaid
-timeline
-    title My Professional Evolution
-    2014-2016 : Junior Developer : Built first production app : Learned fundamentals
-    2017-2018 : Full Stack Developer : Led team of 3 : Shipped 5 major features
-    2019-2020 : Senior Developer : Architected microservices : 40% performance boost
-    2021-2022 : Tech Lead : Managed 15 developers : Launched unicorn product
-    2023-2024 : Principal Engineer : System architecture : 50M+ users served
-```
-
-### 🏆 Impact Metrics
-
-<table align="center">
-<tr>
-<td align="center"><strong>🚀 Products Launched</strong><br/>25+</td>
-<td align="center"><strong>👥 Developers Mentored</strong><br/>100+</td>
-<td align="center"><strong>💰 Revenue Generated</strong><br/>$50M+</td>
-<td align="center"><strong>⭐ GitHub Stars</strong><br/>25K+</td>
-</tr>
-<tr>
-<td align="center"><strong>🏅 Hackathon Wins</strong><br/>15</td>
-<td align="center"><strong>📈 Performance Boost</strong><br/>300%+</td>
-<td align="center"><strong>🌍 Users Impacted</strong><br/>10M+</td>
-<td align="center"><strong>🔧 Open Source PRs</strong><br/>500+</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🎯 Current Focus & Goals 2024
-
-<div align="center">
-
-| 🎯 **Goal** | 📊 **Progress** | 🎯 **Goal** | 📊 **Progress** |
-|-------------|-----------------|-------------|-----------------|
-| Master Rust & WASM | ████████░░ 80% | Lead OSS Project | ██████░░░░ 60% |
-| Build AI Startup | ██████░░░░ 60% | Write Tech Book | ████░░░░░░ 40% |
-| 50 Conference Talks | ████████░░ 80% | Mentor 100 Devs | ██████████ 100% |
 
 </div>
 
