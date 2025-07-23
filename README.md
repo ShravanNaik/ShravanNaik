@@ -32,7 +32,7 @@
 
 ### 💼 Professional Achievements
 - 🎓 **IIT PostGraduate** with honors in Maths and Computer Science
-- 🏆 **Cracked GATE examination** with excellent rank
+- 🏆 **Cracked GATE examination**
 - 🥇 **Best M.Tech Project Award** for outstanding research contribution
 - 🤖 **Built production LLMs** serving 1M+ queries daily
 - 📊 **Improved model accuracy** by 40% through advanced fine-tuning
