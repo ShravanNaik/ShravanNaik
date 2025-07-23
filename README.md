@@ -123,70 +123,7 @@
 
 </div>
 
----
 
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🧠 AI Language Model</h3>
-<div align="center">  
-<a href="https://github.com/yourusername/ai-language-model" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-language-model&theme=radical" alt="AI Language Model" /></a>
-</div>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-</p>
-<p align="center"><strong>Fine-tuned LLM achieving 95% accuracy on domain-specific tasks</strong></p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🔍 RAG System</h3>
-<div align="center">
-<a href="https://github.com/yourusername/rag-system" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=rag-system&theme=radical" alt="RAG System" /></a>
-</div>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white" />
-</p>
-<p align="center"><strong>Advanced RAG pipeline with 98% retrieval accuracy</strong></p>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3 align="center">📊 NLP Analytics Engine</h3>
-<div align="center">
-<a href="https://github.com/yourusername/nlp-analytics" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=nlp-analytics&theme=radical" alt="NLP Analytics" /></a>
-</div>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-</p>
-<p align="center"><strong>Real-time NLP processing with transformer-based models</strong></p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🤖 Blockchain AI Bot</h3>
-<div align="center">
-<a href="https://github.com/yourusername/blockchain-ai-bot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=blockchain-ai-bot&theme=radical" alt="Blockchain AI Bot" /></a>
-</div>
-<p align="center">
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
-</p>
-<p align="center"><strong>AI-powered trading bot for decentralized finance</strong></p>
-
-</td>
-</tr>
-</table>
 
 ## 🌐 Connect & Collaborate
 
