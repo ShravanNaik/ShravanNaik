@@ -65,8 +65,7 @@
 
 <div align="center">
 
-### AI/ML & Data Science
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+### AI/ML 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
@@ -85,24 +84,34 @@
 ![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GPT-4.1](https://img.shields.io/badge/GPT--4.1-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GPT-4o-mini](https://img.shields.io/badge/GPT--4o--mini-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GPT-o1](https://img.shields.io/badge/GPT--o1-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GPT-o3](https://img.shields.io/badge/GPT--o3-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GPT-o4 mini](https://img.shields.io/badge/GPT--o4-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude-4](https://img.shields.io/badge/Claude--4-FF6B35?style=for-the-badge&logoColor=white)
 ![Claude Opus](https://img.shields.io/badge/Claude_Opus-FF6B35?style=for-the-badge&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
+### Fine-tuning & Optimization
+![PEFT](https://img.shields.io/badge/PEFT-FF6B6B?style=for-the-badge&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA-9370DB?style=for-the-badge&logoColor=white)
+![QLoRA](https://img.shields.io/badge/QLoRA-20B2AA?style=for-the-badge&logoColor=white)
+![AdaLoRA](https://img.shields.io/badge/AdaLoRA-FF6F61?style=for-the-badge&logoColor=white)
+![P-Tuning](https://img.shields.io/badge/P--Tuning-4285F4?style=for-the-badge&logoColor=white)
+![Prompt Tuning](https://img.shields.io/badge/Prompt_Tuning-00D2FF?style=for-the-badge&logoColor=white)
+![Adapter Tuning](https://img.shields.io/badge/Adapter_Tuning-FFD21E?style=for-the-badge&logoColor=black)
+![BitFit](https://img.shields.io/badge/BitFit-FF4500?style=for-the-badge&logoColor=white)
+
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Blockchain & Enterprise
