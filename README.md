@@ -104,11 +104,6 @@
 
 ---
 
-## 🎯 Featured AI/ML Projects
-
-<div align="center">
-
-### 🌟 Flagship Projects
 
 <table>
 <tr>
