@@ -2,12 +2,10 @@
 
 # 🚀 Welcome to My Digital Universe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=IIT+Alumnus;AI%2FML%2FDL%2FNLP+Enthusiast;Building+Brains+for+Machines;AI%2FML+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=IIT+Alumnus;AI%2FML%2FDL%2FNLP+Enthusiast;Building+Brains+for+Machines;AI%2FML+Engineer" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
 
 ---
 
@@ -71,13 +69,12 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=for-the-badge&logoColor=white)
-![ML](https://img.shields.io/badge/ML-FF6B6B?style=for-the-badge&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-20B2AA?style=for-the-badge&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-9370DB?style=for-the-badge&logoColor=white)
-
+![MCP](https://img.shields.io/badge/MCP-2E86C1?style=for-the-badge&logoColor=white)
+![ML](https://img.shields.io/badge/ML-E74C3C?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-3498DB?style=for-the-badge&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-E67E22?style=for-the-badge&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-17A2B8?style=for-the-badge&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8E44AD?style=for-the-badge&logoColor=white)
 
 ### LLM Models & APIs
 ![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -85,28 +82,28 @@
 ![GPT-4o-mini](https://img.shields.io/badge/GPT--4o--mini-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GPT-o1](https://img.shields.io/badge/GPT--o1-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GPT-o3](https://img.shields.io/badge/GPT--o3-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude-4](https://img.shields.io/badge/Claude--4-FF6B35?style=for-the-badge&logoColor=white)
-![Claude Opus](https://img.shields.io/badge/Claude_Opus-FF6B35?style=for-the-badge&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![Claude-4](https://img.shields.io/badge/Claude--4-E67E22?style=for-the-badge&logoColor=white)
+![Claude Opus](https://img.shields.io/badge/Claude_Opus-E67E22?style=for-the-badge&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-DC3545?style=for-the-badge&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0066CC?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-2C3E50?style=for-the-badge&logoColor=white)
 
 ### Fine-tuning & Optimization
-![PEFT](https://img.shields.io/badge/PEFT-FF6B6B?style=for-the-badge&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA-9370DB?style=for-the-badge&logoColor=white)
-![QLoRA](https://img.shields.io/badge/QLoRA-20B2AA?style=for-the-badge&logoColor=white)
-![AdaLoRA](https://img.shields.io/badge/AdaLoRA-FF6F61?style=for-the-badge&logoColor=white)
-![P-Tuning](https://img.shields.io/badge/P--Tuning-4285F4?style=for-the-badge&logoColor=white)
-![Prompt Tuning](https://img.shields.io/badge/Prompt_Tuning-00D2FF?style=for-the-badge&logoColor=white)
-![Adapter Tuning](https://img.shields.io/badge/Adapter_Tuning-FFD21E?style=for-the-badge&logoColor=black)
-![BitFit](https://img.shields.io/badge/BitFit-FF4500?style=for-the-badge&logoColor=white)
+![PEFT](https://img.shields.io/badge/PEFT-E74C3C?style=for-the-badge&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA-8E44AD?style=for-the-badge&logoColor=white)
+![QLoRA](https://img.shields.io/badge/QLoRA-17A2B8?style=for-the-badge&logoColor=white)
+![AdaLoRA](https://img.shields.io/badge/AdaLoRA-E67E22?style=for-the-badge&logoColor=white)
+![P-Tuning](https://img.shields.io/badge/P--Tuning-3498DB?style=for-the-badge&logoColor=white)
+![Prompt Tuning](https://img.shields.io/badge/Prompt_Tuning-1ABC9C?style=for-the-badge&logoColor=white)
+![Adapter Tuning](https://img.shields.io/badge/Adapter_Tuning-F39C12?style=for-the-badge&logoColor=black)
+![BitFit](https://img.shields.io/badge/BitFit-D35400?style=for-the-badge&logoColor=white)
 
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -119,9 +116,9 @@
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ### Databases & Version Control
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-E67E22?style=for-the-badge&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0084FF?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -133,7 +130,28 @@
 
 </div>
 
+---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
 
 ## 🌐 Connect & Collaborate
 
@@ -142,13 +160,13 @@
 ### Let's Build Something Amazing Together!
 
 <p>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:badavathshravan20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://medium.com/@badavathshravan20"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:badavathshravan20@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://medium.com/@badavathshravan20"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 ### 📧 Open for:
-🔬 **Research Projects**
+🔬 **Research Collaborations** | 💼 **AI/ML Projects** | 🎓 **Mentoring** | 🚀 **Innovative Solutions**
 
 ---
 
@@ -156,13 +174,25 @@
 
 ### 💭 Developer Philosophy
 
-*"Great code is not just about solving problems—it's about crafting elegant solutions that inspire the next generation of builders. Every line of code is an opportunity to make the world a little bit better."*
+> *"Great code is not just about solving problems—it's about crafting elegant solutions that inspire the next generation of builders. Every line of code is an opportunity to make the world a little bit better."*
+
+---
+
+## 🔥 Recent Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ---
 
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=2E86C1&style=for-the-badge&label=Profile+Views)
+
 **⭐ If my work inspires you, consider starring my repositories!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
 
