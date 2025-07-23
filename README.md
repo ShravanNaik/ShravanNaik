@@ -2,7 +2,9 @@
 
 # 🚀 Welcome to My Digital Universe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=IIT+Alumnus;AI%2FML%2FDL%2FNLP+Enthusiast;Building+Brains+for+Machines;AI%2FML+Engineer;While+Losing+Mine+to+Machines+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=IIT+Alumnus;AI%2FML%2FDL%2FNLP+Enthusiast;Building+Brains+for+Machines;AI%2FML+Engineer" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
