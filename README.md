@@ -108,15 +108,15 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Cloud & DevOps
+### Cloud 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### Deployment & Web Servers
+### Deployment
 ![Microsoft IIS](https://img.shields.io/badge/Microsoft_IIS-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure App Services](https://img.shields.io/badge/Azure_Web_Services-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 
-### Blockchain & Enterprise
+### Blockchain
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
