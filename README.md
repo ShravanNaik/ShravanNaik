@@ -34,7 +34,7 @@
 - 🎓 **IIT PostGraduate** with honors in Maths and Computer Science
 - 🏆 **Cracked GATE examination**
 - 🥇 **Best M.Tech Project Award** for outstanding research contribution
-- 🤖 **Built production LLMs** serving 1M+ queries daily
+- 🤖 **Built production LLMs** wich can serve 1M+ queries daily
 - 📊 **Improved model accuracy** by 40% through advanced fine-tuning
 - 🔬 **Published research** on Security and Blockchain
 - 💡 **Created 15+ AI-powered** products and solutions
