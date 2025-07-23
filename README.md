@@ -70,15 +70,13 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=for-the-badge&logoColor=white)
-![AI](https://img.shields.io/badge/AI-00D2FF?style=for-the-badge&logoColor=white)
 ![ML](https://img.shields.io/badge/ML-FF6B6B?style=for-the-badge&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logoColor=white)
 ![EDA](https://img.shields.io/badge/EDA-20B2AA?style=for-the-badge&logoColor=white)
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-9370DB?style=for-the-badge&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logoColor=white)
+
 
 ### LLM Models & APIs
 ![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -90,6 +88,7 @@
 ![Claude Opus](https://img.shields.io/badge/Claude_Opus-FF6B35?style=for-the-badge&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
 ### Fine-tuning & Optimization
@@ -129,6 +128,7 @@
 ### Tools & Documentation
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
