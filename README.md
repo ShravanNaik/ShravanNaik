@@ -45,11 +45,10 @@
 
 <br>
 
-- 🔭 **Currently Working On:** Next-gen LLM applications with RAG and fine-tuning pipelines
-- 🌱 **Learning Journey:** Advanced Transformer architectures, Multi-modal AI, and Quantum ML
+- 🔭 **Currently Working On:** Next-gen LLM applications with Deeplearning,Object Detection & Classification ,NLP , RAG fine-tuning pipelines
 - 👯 **Collaboration Goals:** Open source AI projects and cutting-edge research
 - 🤝 **Seeking:** Fellow AI researchers and ML engineers for breakthrough innovations
-- 💬 **Ask Me About:** LLMs, Fine-tuning, RAG, Prompt Engineering, ML Algorithms, Deep Learning
+- 💬 **Ask Me About:** LLMs, Fine-tuning, RAG, Prompt Engineering, ML Algorithms, Deep Learning ,NLP
 - ⚡ **Fun Fact:** I debug neural networks in my dreams and wake up with gradient descent solutions
 - 🎮 **Side Quest:** Building AI agents that can beat me at chess (they already do)
 
