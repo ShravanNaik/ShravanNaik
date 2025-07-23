@@ -49,7 +49,7 @@
 <br>
 
 - 🔭 **Currently Working On:** Next-gen LLM applications with Deeplearning, Object Detection & Classification, NLP, RAG fine-tuning pipelines
-- 🌱 **Learning Journey:** Advanced Transformer architectures, Multi-modal AI, and Quantum ML
+- 🌱 **Learning Journey:** Advanced Transformer architectures,Neaural Networks, Multi-modal AI, and Quantum ML
 - 👯 **Collaboration Goals:** Open source AI projects and cutting-edge research
 - 🤝 **Seeking:** Fellow AI researchers and ML engineers for breakthrough innovations
 - 💬 **Ask Me About:** LLMs, Fine-tuning, RAG, Prompt Engineering, ML Algorithms, Deep Learning, NLP
