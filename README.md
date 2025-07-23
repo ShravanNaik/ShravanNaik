@@ -4,13 +4,18 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=IIT+Alumnus;AI%2FML%2FDL%2FNLP+Enthusiast;Building+Brains+for+Machines;AI%2FML+Engineer;While+Losing+Mine+to+Machines+%F0%9F%A4%96" alt="Typing SVG" />
 
-<img align="right" alt="AI/ML" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
 ---
 
+<img align="right" alt="AI/ML" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ### 🎓 IIT Alumnus | AI/ML Engineer
+
+**Indian Institute of Technology (IIT) Graduate**  
+*AI/ML/DL/NLP enthusiast by heart | Building brains for machines while losing mine to machines 🤖*
 
 **Current Role:** AI/ML Engineer  
 **Previous Role:** Senior Software Engineer  
@@ -39,10 +44,11 @@
 
 <br>
 
-- 🔭 **Currently Working On:** Next-gen LLM applications with Deeplearning,Object Detection & Classification ,NLP , RAG fine-tuning pipelines
+- 🔭 **Currently Working On:** Next-gen LLM applications with Deeplearning, Object Detection & Classification, NLP, RAG fine-tuning pipelines
+- 🌱 **Learning Journey:** Advanced Transformer architectures, Multi-modal AI, and Quantum ML
 - 👯 **Collaboration Goals:** Open source AI projects and cutting-edge research
 - 🤝 **Seeking:** Fellow AI researchers and ML engineers for breakthrough innovations
-- 💬 **Ask Me About:** LLMs, Fine-tuning, RAG, Prompt Engineering, ML Algorithms, Deep Learning ,NLP
+- 💬 **Ask Me About:** LLMs, Fine-tuning, RAG, Prompt Engineering, ML Algorithms, Deep Learning, NLP
 - ⚡ **Fun Fact:** I debug neural networks in my dreams and wake up with gradient descent solutions
 - 🎮 **Side Quest:** Building AI agents that can beat me at chess (they already do)
 
@@ -83,18 +89,93 @@
 ![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=for-the-badge&logoColor=white)
 
-### Databases & Tools
+### Databases & Version Control
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Tools & Documentation
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
 ---
 
+## 🎯 Featured AI/ML Projects
 
+<div align="center">
+
+### 🌟 Flagship Projects
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🧠 AI Language Model</h3>
+<div align="center">  
+<a href="https://github.com/yourusername/ai-language-model" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-language-model&theme=radical" alt="AI Language Model" /></a>
+</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+</p>
+<p align="center"><strong>Fine-tuned LLM achieving 95% accuracy on domain-specific tasks</strong></p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🔍 RAG System</h3>
+<div align="center">
+<a href="https://github.com/yourusername/rag-system" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=rag-system&theme=radical" alt="RAG System" /></a>
+</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white" />
+</p>
+<p align="center"><strong>Advanced RAG pipeline with 98% retrieval accuracy</strong></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">📊 NLP Analytics Engine</h3>
+<div align="center">
+<a href="https://github.com/yourusername/nlp-analytics" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=nlp-analytics&theme=radical" alt="NLP Analytics" /></a>
+</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+</p>
+<p align="center"><strong>Real-time NLP processing with transformer-based models</strong></p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🤖 Blockchain AI Bot</h3>
+<div align="center">
+<a href="https://github.com/yourusername/blockchain-ai-bot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=blockchain-ai-bot&theme=radical" alt="Blockchain AI Bot" /></a>
+</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
+</p>
+<p align="center"><strong>AI-powered trading bot for decentralized finance</strong></p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ## 🌐 Connect & Collaborate
 
@@ -104,12 +185,15 @@
 
 <p>
 <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="mailto:badavathshravan20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 <a href="https://medium.com/@badavathshravan20"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 ### 📧 Open for:
-- 🔬 **Research Projects** 
+- 🚀 **Startup Collaborations** | 💼 **Consulting Opportunities** | 🎤 **Speaking Engagements**
+- 👥 **Mentoring Sessions** | 🔬 **Research Projects** | 💡 **Innovation Partnerships**
 
 ---
 
