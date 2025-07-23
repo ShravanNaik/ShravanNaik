@@ -79,6 +79,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logoColor=white)
 ![EDA](https://img.shields.io/badge/EDA-20B2AA?style=for-the-badge&logoColor=white)
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-9370DB?style=for-the-badge&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logoColor=white)
 
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
