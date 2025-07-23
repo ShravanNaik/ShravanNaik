@@ -139,19 +139,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 🌐 Connect & Collaborate
 
@@ -166,7 +156,7 @@
 </p>
 
 ### 📧 Open for:
-🔬 **Research Collaborations** | 💼 **AI/ML Projects** | 🎓 **Mentoring** | 🚀 **Innovative Solutions**
+🔬 **Research Collaborations** 
 
 ---
 
@@ -178,17 +168,8 @@
 
 ---
 
-## 🔥 Recent Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=2E86C1&style=for-the-badge&label=Profile+Views)
 
 **⭐ If my work inspires you, consider starring my repositories!**
 
