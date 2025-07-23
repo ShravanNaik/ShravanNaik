@@ -74,7 +74,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-E67E22?style=for-the-badge&logoColor=white)
 ![EDA](https://img.shields.io/badge/EDA-17A2B8?style=for-the-badge&logoColor=white)
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8E44AD?style=for-the-badge&logoColor=white)
-![Yolo](https://img.shields.io/badge/Yolo-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Yolo](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
 
 ### LLM Models & APIs
 ![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
