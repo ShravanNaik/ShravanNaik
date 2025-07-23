@@ -158,7 +158,7 @@
 </td>
 <td width="50%">
 
-<h3 align="center">🤖 Blockchain AI Bot</h3>
+<h3 align="center">🤖 Blockchain A</h3>
 <div align="center">
 <a href="https://github.com/yourusername/blockchain-ai-bot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=blockchain-ai-bot&theme=radical" alt="Blockchain AI Bot" /></a>
 </div>
@@ -171,10 +171,6 @@
 
 </td>
 </tr>
-</table>
-
-</div>
-
 ---
 
 ## 🌐 Connect & Collaborate
@@ -185,15 +181,12 @@
 
 <p>
 <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="mailto:badavathshravan20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 <a href="https://medium.com/@badavathshravan20"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 ### 📧 Open for:
-- 🚀 **Startup Collaborations** | 💼 **Consulting Opportunities** | 🎤 **Speaking Engagements**
-- 👥 **Mentoring Sessions** | 🔬 **Research Projects** | 💡 **Innovation Partnerships**
+- 🔬 **Research Projects**
 
 ---
 
@@ -206,10 +199,6 @@
 ---
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=yellow)
 
 **⭐ If my work inspires you, consider starring my repositories!**
 
