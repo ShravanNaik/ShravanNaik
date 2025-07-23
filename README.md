@@ -14,8 +14,12 @@
 
 ### 🎓 IIT Alumnus | AI/ML Engineer
 
-**Indian Institute of Technology (IIT) Graduate**  
-*AI/ML/DL/NLP enthusiast by heart | Building brains for machines while losing mine to machines 🤖*
+
+
+<div align="center">
+🏛️ Indian Institute of Technology (IIT) Graduate 🏛️
+✨ AI/ML/DL/NLP enthusiast by heart | Building brains for machines while losing mine to machines 🤖 ✨
+</div>
 
 **Current Role:** AI/ML Engineer  
 **Previous Role:** Senior Software Engineer  
