@@ -101,6 +101,20 @@
 ![Adapter Tuning](https://img.shields.io/badge/Adapter_Tuning-F39C12?style=for-the-badge&logoColor=black)
 ![BitFit](https://img.shields.io/badge/BitFit-D35400?style=for-the-badge&logoColor=white)
 
+### LLM Testing & Evaluation
+
+![RAGAS](https://img.shields.io/badge/RAGAS-FF6B35?style=for-the-badge&logoColor=white)
+![GPT4Eval](https://img.shields.io/badge/GPT4Eval-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Agentic Frameworks & Tracking
+
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge&logoColor=white)
+![LangFuse](https://img.shields.io/badge/LangFuse-FF6347?style=for-the-badge&logoColor=white)
+![AgentOps](https://img.shields.io/badge/AgentOps-4169E1?style=for-the-badge&logoColor=white)
+![Microsoft AutoGen](https://img.shields.io/badge/Microsoft_AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
