@@ -75,6 +75,8 @@
 ![EDA](https://img.shields.io/badge/EDA-17A2B8?style=for-the-badge&logoColor=white)
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8E44AD?style=for-the-badge&logoColor=white)
 ![Yolo](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
+![MLOps](https://img.shields.io/badge/MLOps-FF6B6B?style=for-the-badge&logoColor=white)
+![LLMOps](https://img.shields.io/badge/LLMOps-9370DB?style=for-the-badge&logoColor=white)
 
 ### LLM Models & APIs
 ![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -113,6 +115,8 @@
 
 ### Cloud 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure_ML_Studio-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![OpenAI Services](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Deployment
 ![Microsoft IIS](https://img.shields.io/badge/Microsoft_IIS-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
