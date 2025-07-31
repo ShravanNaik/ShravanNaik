@@ -41,10 +41,10 @@
 
 ---
 
-## 🚀 Featured Projects Portfolio
+## 🚀 Recent Projects Portfolio
 
 ### 🧠 AI Mental Wellbeing Crew
-**Status:** 🔴 Stopped | **Tech:** CrewAI, Multi-Agent Systems  
+**Tech:** Multi-Agent Systems , RAG , LLMS,Finetuning
 Advanced multi-agent system for personalized mental health support using CrewAI technology
 - ✨ Multi-agent therapeutic system
 - 🔬 Clinical assessment specialist
@@ -52,7 +52,7 @@ Advanced multi-agent system for personalized mental health support using CrewAI 
 - 🎯 Personalized care protocols
 
 ### 🏥 Medical Imaging Assistant
-**Status:** 🔴 Stopped | **Tech:** Computer Vision, Medical AI  
+**Tech:** Computer Vision, Multi-Agent Systems , RAG , LLMS,Finetuning
 Professional medical image analysis with advanced radiological expertise and diagnostic support
 - 🔍 Advanced medical reasoning
 - 🎯 Pattern recognition
@@ -60,7 +60,7 @@ Professional medical image analysis with advanced radiological expertise and dia
 - 🏥 Clinical decision support
 
 ### 🩺 MediAssist AI
-**Status:** 🔴 Stopped | **Tech:** Multi-Agent Systems, Healthcare AI  
+**Tech:** Multi-Agent Systems , RAG , LLMS,Finetuning
 Advanced multi-agent medical intelligence platform for comprehensive healthcare decision support
 - 🤖 Multi-agent medical diagnostics
 - 📋 Treatment planning system
@@ -68,7 +68,7 @@ Advanced multi-agent medical intelligence platform for comprehensive healthcare 
 - 💊 Clinical workflow optimization
 
 ### 🏋️‍♂️ AI Health & Fitness CrewAI Planner
-**Status:** 🔴 Stopped | **Tech:** CrewAI, Wellness AI  
+**Tech:** Multi-Agent Systems , RAG , LLMS,Finetuning
 Advanced multi-agent system for personalized nutrition, fitness, and wellness planning with CrewAI technology
 - 🤝 Multi-agent collaboration
 - 🍎 Personalized nutrition planning
@@ -76,7 +76,7 @@ Advanced multi-agent system for personalized nutrition, fitness, and wellness pl
 - 📊 Comprehensive wellness tracking
 
 ### 🍎 AI Fruit Health Analyzer
-**Status:** 🔴 Stopped | **Tech:** Computer Vision, Nutrition AI  
+**Tech:** Computer Vision,Multi-Agent Systems , RAG , LLMS,Finetuning
 Advanced fruit analysis system for nutritional assessment and personalized health recommendations
 - 👁️ Smart vision analysis
 - 🧠 Nutritional intelligence
@@ -84,7 +84,7 @@ Advanced fruit analysis system for nutritional assessment and personalized healt
 - 📈 Dietary optimization
 
 ### ⚡ AI Code Generation Comparison
-**Status:** 🔴 Stopped | **Tech:** GPT-4o, Qwen Coder, DeepEval  
+**Tech:** GPT-4o, Qwen Coder, DeepEval , Multi-Agent Systems
 Compare code generation quality between GPT-4o and Qwen Coder with DeepEval metrics
 - 🔀 Dual-model code generation (GPT-4o & Qwen Coder)
 - 📂 Repository context ingestion
@@ -92,7 +92,7 @@ Compare code generation quality between GPT-4o and Qwen Coder with DeepEval metr
 - 🎯 Performance benchmarking
 
 ### 💰 AI Personal Finance Planner Pro
-**Status:** 🔴 Stopped | **Tech:** Multi-Agent Systems, FinTech AI  
+**Tech:** Multi-Agent Systems , RAG , LLMS,Finetuning
 Transform your financial future with AI-powered comprehensive financial planning and investment strategies
 - 👥 Multi-agent financial team
 - 📈 Comprehensive investment strategies
@@ -100,7 +100,7 @@ Transform your financial future with AI-powered comprehensive financial planning
 - 🎯 Financial goal tracking
 
 ### 💝 Physiological Recovery Assistant
-**Status:** 🔴 Stopped | **Tech:** AI/ML, Therapeutic AI  
+**Tech:** Multi-Agent Systems , RAG , LLMS,Finetuning
 Compassionate AI support system for emotional healing and personal growth during difficult times
 - 💝 Empathetic therapy sessions
 - 🧭 Intelligent closure guidance
@@ -108,7 +108,7 @@ Compassionate AI support system for emotional healing and personal growth during
 - 🌱 Growth-oriented support
 
 ### 🎙️ Blog to Podcast Agent
-**Status:** 🔴 Stopped | **Tech:** LLM, ElevenLabs, Firecrawl  
+**Tech:** LLM, ElevenLabs, Firecrawl , Multi-Agent Systems
 Transform blog articles into engaging podcast episodes using advanced AI voice synthesis and content analysis
 - 🧠 LLM powered content analysis
 - 🕷️ Web scraping with Firecrawl
