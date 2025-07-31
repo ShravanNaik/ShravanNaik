@@ -41,6 +41,103 @@
 
 ---
 
+## 🚀 Featured Projects Portfolio
+
+<details>
+<summary><b>🧠 Mental Health & Wellness AI</b></summary>
+
+<br>
+
+### 🧠 AI Mental Wellbeing Crew
+**Status:** 🔴 Stopped | **Tech:** CrewAI, Multi-Agent Systems  
+Advanced multi-agent system for personalized mental health support using CrewAI technology
+- ✨ Multi-agent therapeutic system
+- 🔬 Clinical assessment specialist
+- 🚨 Crisis intervention planning
+- 🎯 Personalized care protocols
+
+### 💝 Physiological Recovery Assistant
+**Status:** 🔴 Stopped | **Tech:** AI/ML, Therapeutic AI  
+Compassionate AI support system for emotional healing and personal growth during difficult times
+- 💝 Empathetic therapy sessions
+- 🧭 Intelligent closure guidance
+- 📋 Personalized recovery plans
+- 🌱 Growth-oriented support
+
+</details>
+
+<details>
+<summary><b>🏥 Healthcare & Medical AI</b></summary>
+
+<br>
+
+### 🏥 Medical Imaging Assistant
+**Status:** 🔴 Stopped | **Tech:** Computer Vision, Medical AI  
+Professional medical image analysis with advanced radiological expertise and diagnostic support
+- 🔍 Advanced medical reasoning
+- 🎯 Pattern recognition
+- 📊 Evidence-based analysis
+- 🏥 Clinical decision support
+
+### 🩺 MediAssist AI
+**Status:** 🔴 Stopped | **Tech:** Multi-Agent Systems, Healthcare AI  
+Advanced multi-agent medical intelligence platform for comprehensive healthcare decision support
+- 🤖 Multi-agent medical diagnostics
+- 📋 Treatment planning system
+- 🔬 Medical research integration
+- 💊 Clinical workflow optimization
+
+### 🏋️‍♂️ AI Health & Fitness CrewAI Planner
+**Status:** 🔴 Stopped | **Tech:** CrewAI, Wellness AI  
+Advanced multi-agent system for personalized nutrition, fitness, and wellness planning with CrewAI technology
+- 🤝 Multi-agent collaboration
+- 🍎 Personalized nutrition planning
+- 💪 Custom fitness program design
+- 📊 Comprehensive wellness tracking
+
+### 🍎 AI Fruit Health Analyzer
+**Status:** 🔴 Stopped | **Tech:** Computer Vision, Nutrition AI  
+Advanced fruit analysis system for nutritional assessment and personalized health recommendations
+- 👁️ Smart vision analysis
+- 🧠 Nutritional intelligence
+- 💡 Health recommendations
+- 📈 Dietary optimization
+
+</details>
+
+<details>
+<summary><b>🔧 Development & Finance Tools</b></summary>
+
+<br>
+
+### ⚡ AI Code Generation Comparison
+**Status:** 🔴 Stopped | **Tech:** GPT-4o, Qwen Coder, DeepEval  
+Compare code generation quality between GPT-4o and Qwen Coder with DeepEval metrics
+- 🔀 Dual-model code generation (GPT-4o & Qwen Coder)
+- 📂 Repository context ingestion
+- 📊 DeepEval code quality assessment
+- 🎯 Performance benchmarking
+
+### 💰 AI Personal Finance Planner Pro
+**Status:** 🔴 Stopped | **Tech:** Multi-Agent Systems, FinTech AI  
+Transform your financial future with AI-powered comprehensive financial planning and investment strategies
+- 👥 Multi-agent financial team
+- 📈 Comprehensive investment strategies
+- 💰 Personalized budget optimization
+- 🎯 Financial goal tracking
+
+### 🎙️ Blog to Podcast Agent
+**Status:** 🔴 Stopped | **Tech:** LLM, ElevenLabs, Firecrawl  
+Transform blog articles into engaging podcast episodes using advanced AI voice synthesis and content analysis
+- 🧠 LLM powered content analysis
+- 🕷️ Web scraping with Firecrawl
+- 🎵 ElevenLabs voice synthesis
+- 🎧 Automated podcast generation
+
+</details>
+
+---
+
 ## 🔥 My Developer DNA
 
 <details>
@@ -155,13 +252,11 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-
 ### Operating Systems
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 
 </div>
 
@@ -193,7 +288,6 @@
 ---
 
 <div align="center">
-
 
 **⭐ If my work inspires you, consider starring my repositories!**
 
