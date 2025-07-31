@@ -43,16 +43,16 @@
 
 ## 🚀 Recent Projects Portfolio
 
-🔬 AI Disease Diagnosis Engine
+### 🔬 AI Disease Diagnosis Engine
 **Tech:** Deep Learning, NLP, ML Algorithms (SVM, Naive Bayes, Random Forest, Decision Trees, and Voting Classifier)
 Intelligent automated disease diagnosis system using advanced ML algorithms and clinical NLP for accurate medical predictions
 
-🧠 Multi-modal symptom analysis
-📝 Clinical NLP text processing
-🎯 Pattern recognition algorithms
-📊 Probabilistic diagnosis scoring
-🏥 Medical knowledge graph integration
-🔍 Evidence-based recommendations
+- 🧠 Multi-modal symptom analysis
+- 📝 Clinical NLP text processing
+- 🎯 Pattern recognition algorithms
+- 📊 Probabilistic diagnosis scoring
+- 🏥 Medical knowledge graph integration
+- 🔍 Evidence-based recommendations
 
 ### 🧠 AI Mental Wellbeing Crew
 **Tech:** Multi-Agent Systems , RAG , LLMS,Finetuning
