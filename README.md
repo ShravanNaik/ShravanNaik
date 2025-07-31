@@ -104,7 +104,7 @@
 ### LLM Testing & Evaluation
 
 ![RAGAS](https://img.shields.io/badge/RAGAS-FF6B35?style=for-the-badge&logoColor=white)
-![GPT4Eval](https://img.shields.io/badge/GPT4Eval-412991?style=for-the-badge&logo=openai&logoColor=white)
+![DeepEval](https://img.shields.io/badge/DeepEval-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Agentic Frameworks & Tracking
 
