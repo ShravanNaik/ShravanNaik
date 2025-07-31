@@ -43,11 +43,6 @@
 
 ## 🚀 Featured Projects Portfolio
 
-<details>
-<summary><b>🧠 Mental Health & Wellness AI</b></summary>
-
-<br>
-
 ### 🧠 AI Mental Wellbeing Crew
 **Status:** 🔴 Stopped | **Tech:** CrewAI, Multi-Agent Systems  
 Advanced multi-agent system for personalized mental health support using CrewAI technology
@@ -55,21 +50,6 @@ Advanced multi-agent system for personalized mental health support using CrewAI 
 - 🔬 Clinical assessment specialist
 - 🚨 Crisis intervention planning
 - 🎯 Personalized care protocols
-
-### 💝 Physiological Recovery Assistant
-**Status:** 🔴 Stopped | **Tech:** AI/ML, Therapeutic AI  
-Compassionate AI support system for emotional healing and personal growth during difficult times
-- 💝 Empathetic therapy sessions
-- 🧭 Intelligent closure guidance
-- 📋 Personalized recovery plans
-- 🌱 Growth-oriented support
-
-</details>
-
-<details>
-<summary><b>🏥 Healthcare & Medical AI</b></summary>
-
-<br>
 
 ### 🏥 Medical Imaging Assistant
 **Status:** 🔴 Stopped | **Tech:** Computer Vision, Medical AI  
@@ -103,13 +83,6 @@ Advanced fruit analysis system for nutritional assessment and personalized healt
 - 💡 Health recommendations
 - 📈 Dietary optimization
 
-</details>
-
-<details>
-<summary><b>🔧 Development & Finance Tools</b></summary>
-
-<br>
-
 ### ⚡ AI Code Generation Comparison
 **Status:** 🔴 Stopped | **Tech:** GPT-4o, Qwen Coder, DeepEval  
 Compare code generation quality between GPT-4o and Qwen Coder with DeepEval metrics
@@ -126,6 +99,14 @@ Transform your financial future with AI-powered comprehensive financial planning
 - 💰 Personalized budget optimization
 - 🎯 Financial goal tracking
 
+### 💝 Physiological Recovery Assistant
+**Status:** 🔴 Stopped | **Tech:** AI/ML, Therapeutic AI  
+Compassionate AI support system for emotional healing and personal growth during difficult times
+- 💝 Empathetic therapy sessions
+- 🧭 Intelligent closure guidance
+- 📋 Personalized recovery plans
+- 🌱 Growth-oriented support
+
 ### 🎙️ Blog to Podcast Agent
 **Status:** 🔴 Stopped | **Tech:** LLM, ElevenLabs, Firecrawl  
 Transform blog articles into engaging podcast episodes using advanced AI voice synthesis and content analysis
@@ -133,8 +114,6 @@ Transform blog articles into engaging podcast episodes using advanced AI voice s
 - 🕷️ Web scraping with Firecrawl
 - 🎵 ElevenLabs voice synthesis
 - 🎧 Automated podcast generation
-
-</details>
 
 ---
 
